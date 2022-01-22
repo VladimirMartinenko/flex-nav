@@ -12,18 +12,19 @@
   max-height: 60vh;
   background-color: black;
   flex-wrap: wrap;
+ 
   }
 .nav-center {
   width: 300px;
   display: flex;
   justify-content: space-between;
-}
+  }
 .link-general {
   text-decoration: none;
   color: white;
-}
+ }
 .link-center {
-  font-family: fantasy;
+  font-family: serif;
   text-transform: uppercase;
   font-size: 0.95em;
 }
